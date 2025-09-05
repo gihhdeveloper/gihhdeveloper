@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+To+Github+Gihh+Hosting" alt="Typing SVG" /></a>
   </a>
 </p>
-# 💫 About Me : 
+💫 About Me : 
 Hello Perkenalkan, Saya Gihh Hosting!! Saya hanyalah seorang manusia biasa yang sangat tertarik dengan dunia pemrograman. Saya juga salah satu pengembang script bot WhatsApp dan Telegram. Selain menjadi pengembang script bot, saya juga ahli dalam membuat situs web hosting dan lain sebagainya.
 
 
